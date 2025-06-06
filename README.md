@@ -429,7 +429,7 @@ A **Random Forest** classifier was trained on all features (after encoding categ
 5. **Reproduce Modeling Results**
 
    * Ensure you have a GPU (if available) or CPU‐only; the notebook is TPU/GPU agnostic but may run slower on CPU for AutoGluon.
-   * The final AutoGluon ensemble may take \~10–15 minutes end-to-end (depending on hardware).
+   * The final AutoGluon ensemble may take \~30–60 minutes end-to-end (depending on hardware).
 
 ---
 
