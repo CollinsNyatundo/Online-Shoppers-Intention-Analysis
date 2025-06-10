@@ -1,9 +1,9 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-scipy
-torch
-autogluon.tabular
-notebook
+pandas >= 1.2.0
+numpy >= 1.19.0
+matplotlib >= 3.3.0
+seaborn >= 0.11.0
+scikit-learn >= 1.0.0
+scipy >= 1.6.0
+torch >= 1.7.0 (optional; used to check for CUDA)
+autogluon.tabular >= 1.3.0
+jupyter / notebook >= 6.0.0
