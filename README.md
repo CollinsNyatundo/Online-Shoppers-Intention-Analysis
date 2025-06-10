@@ -482,4 +482,4 @@ This project is released under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*For questions or support, please open an issue or contact the [primary author](cnyagakan@gmail.com).*
+*For questions or support, please open an issue or contact the [primary author](https://github.com/CollinsNyatundo).*
